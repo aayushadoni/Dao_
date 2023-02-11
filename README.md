@@ -26,3 +26,12 @@
 
 ### 5. Run 1st script
 `$ truffle exec .\scripts\1_create_proposal.js`
+
+### 6. Screenshots
+
+![Screenshot_20230212_031213](https://user-images.githubusercontent.com/78133084/218282599-9114d1fc-f075-4050-9112-8295814d5810.png)
+
+![Screenshot_20230212_031235](https://user-images.githubusercontent.com/78133084/218282620-004136d6-f104-4186-b7ef-f672b3f13d68.png)
+
+![Screenshot_20230212_031154](https://user-images.githubusercontent.com/78133084/218282629-99f88ad8-fa20-42e5-9070-ac8a52772546.png)
+
